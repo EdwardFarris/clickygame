@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/antman.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/cap.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/hulk.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/ironman.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/panther.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/rocket.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/spidey.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/starlord.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/strange.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/thanos.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/thor.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/widow.jpg",
+      "clicked": false
+    }
+  ]
