@@ -1,5 +1,12 @@
-.title {
+.title,
+.scoreSummary
+ {
     width: 100%;
     text-align: center;
     color: black;
+    text-shadow: 2px 2px rgb(196, 196, 252);
+  }
+
+  .red {
+    color: red
   }

@@ -99,7 +99,7 @@ class App extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>Test your MARVELous Memory, One Click at a Time!</Title>
+                <Title>Test your <span class="red">MARVEL</span>ous Memory, One Click at a Time!</Title>
         
                 <h3 className="scoreSummary">
                     {this.state.clickMessage}
@@ -111,7 +111,7 @@ class App extends Component {
                     Best Score: {this.state.bestScore} 
                 </h3>
                 
-                
+
                 {this.state.matches.map(match => (
                     <CardMatch
                         setClicked={this.setClicked}
