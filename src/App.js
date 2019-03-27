@@ -101,15 +101,18 @@ class App extends Component {
             <Wrapper>
                 <Title>Test your <span class="red">MARVEL</span>ous Memory, One Click at a Time!</Title>
         
-                <h3 className="scoreSummary">
-                    {this.state.clickMessage}
-                </h3>
+                <h4 className="scoreSummary">
+                    {this.state.clickMessage} 
+                </h4>
+                
                 
                 <h3 className="scoreSummary">
-                    Correct Guesses: {this.state.correctGuesses} 
-                    <br />
-                    Best Score: {this.state.bestScore} 
+                <span id="guess">Correct Guesses: {this.state.correctGuesses}</span>    <span id="score">Best Score: {this.state.bestScore} </span> 
                 </h3>
+               
+                    
+                    
+                
                 
 
                 {this.state.matches.map(match => (

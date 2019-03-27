@@ -2,7 +2,7 @@
     background: #fff;
     border-radius: 2px;
     position: relative;
-    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    box-shadow: 0 6px 8px rgb(243, 4, 4), 0 3px 6px rgb(2, 43, 224);
     text-align: left;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -16,8 +16,8 @@
     
   }
   .card > .img-container > img {
-    height: 250px;
-    width: 290px;
+    height: 170px;
+    width: 200px;
     
   }
 
